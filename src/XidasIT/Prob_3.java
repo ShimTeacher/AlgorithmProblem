@@ -20,6 +20,7 @@ public class Prob_3 {
 	
 	static TreeMap<Integer,Integer> tmap = new TreeMap<Integer,Integer>();
 	
+
 	public static void main(String args[])
 	{
 		StringBuilder str = new StringBuilder();
