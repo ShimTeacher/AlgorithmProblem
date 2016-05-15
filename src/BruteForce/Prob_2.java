@@ -77,7 +77,7 @@ public class Prob_2 {
 		
 		//결과 출력 
 		for(String str : result.keySet()){
-			String resultBoolean = result.get(str)==1 ? "YES" : "NO";    
+			String resultBoolean = result.get(str) == 1 ? "YES" : "NO";    
 			System.out.println(str +"  "+resultBoolean);
 		}
 	}
