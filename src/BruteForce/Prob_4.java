@@ -2,6 +2,7 @@ package BruteForce;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Scanner;
 
 //여행하는 외판원 문제 ( 시작점까지 돌아오지 않는 시작위치는 랜덤하다 .  )
